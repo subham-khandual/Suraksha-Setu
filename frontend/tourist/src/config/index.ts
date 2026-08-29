@@ -1,8 +1,17 @@
 // Configuration file for Suraksha Setu app
 
 // API Configuration
-// API Configuration
-export const API_BASE_URL = process.env.REACT_APP_API_URL?.replace(/\/api$/, '') || 'http://localhost:5000'; 
+// Production backend (Render). Used as a safe fallback so the deployed
+// PWA never points at "localhost" (which on a phone is the phone itself).
+const PROD_API_BASE = 'https://suraksha-setu-0iaq.onrender.com';
+
+// REACT_APP_API_URL may include a trailing "/api"; strip it so we can
+// re-append it consistently in api.ts. REACT_APP_SOCKET_URL is honoured
+// for the websocket connection. Falls back to the production backend.
+const rawApiUrl = process.env.REACT_APP_API_URL?.replace(/\/api$/, '');
+const socketUrl = process.env.REACT_APP_SOCKET_URL?.replace(/\/api$/, '');
+
+export const API_BASE_URL = rawApiUrl || socketUrl || PROD_API_BASE;
 export const API_ENDPOINTS = {
   AUTH: '/api/auth',
   VERIFICATION: '/api',
