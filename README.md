@@ -112,7 +112,17 @@ This system is ideal for:
 - Final validation report
 - Demo presentation script
 - Web dashboard guide
+## 👨‍💻 Author
 
+**Subham Khandual**
+
+Full Stack Developer • MERN Stack Developer • AI/ML Engineer • DevOps Engineer from Bhubaneswar, Odisha, India
+
+- 🔗 GitHub: [@subham-khandual](https://github.com/subham-khandual)
+- 💼 LinkedIn: [Subham Khandual](https://www.linkedin.com/in/subham-khandual)
+- 🌐 Portfolio: [My Portfolio](https://portfolio-nine-alpha-8nkzp7nnk6.vercel.app)
+- 📧 Email: [subhamkhandual215@gmail.com](mailto:subhamkhandual215@gmail.com)
+- 🐦 Twitter: [@subham_khandual](https://twitter.com/subham_khandual)
 ## Developer
 
 Created by **@subham-khandual**  
