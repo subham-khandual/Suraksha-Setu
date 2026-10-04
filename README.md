@@ -1,4 +1,4 @@
-# Suraksha Setu — Real-Time Tourist Safety Monitoring & Emergency Response System
+hu# Suraksha Setu — Real-Time Tourist Safety Monitoring & Emergency Response System
 
 A real-time tourist safety monitoring platform for emergency alerts, GPS tracking, digital ID verification, and incident response. Built for smart travel safety, rapid SOS handling, and live monitoring for tourists, operators, and authorities.
 
@@ -122,7 +122,7 @@ Full Stack Developer • MERN Stack Developer • AI/ML Engineer • DevOps Engi
 - 💼 LinkedIn: [Subham Khandual](https://www.linkedin.com/in/subham-khandual)
 - 🌐 Portfolio: [My Portfolio](https://portfolio-nine-alpha-8nkzp7nnk6.vercel.app)
 - 📧 Email: [subhamkhandual215@gmail.com](mailto:subhamkhandual215@gmail.com)
-- 🐦 Twitter: [@subham_khandual](https://twitter.com/subham_khandual)
+- 🐦 Twitter: [@subham_khandual](https://x.com/Subham34713)
 ## Developer
 
 Created by **@subham-khandual**  
