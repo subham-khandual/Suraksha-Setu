@@ -1,14 +1,14 @@
 # Smart Tourist Safety Monitoring & Incident Response System
 
-
-
 A comprehensive digital ecosystem for tourist safety using Real-time Communication, Digital ID System, and GPS Tracking technologies.
+
+**Developer:** [@subham-khandual](https://github.com/subham-khandual)
 
 ## 💯 **FINAL DEVELOPMENT PROGRESS** - **100% COMPLETE** ✅
 - **✅ Project Planning & Architecture**: 100% Complete
 - **✅ Backend API System**: 100% Complete (Production Ready)
 - **✅ User Authentication System**: 100% Complete (JWT + bcrypt + Cloud Atlas)
-- **✅ Mobile App MVP**: 100% Complete (All screens functional + Responsive)  
+- **✅ Mobile App MVP**: 100% Complete (All screens functional + Responsive)
 - **✅ Admin Dashboard**: 100% Complete (Professional interface ready)
 - **✅ Real-time Communication**: 100% Complete (Socket.IO + SOS Siren operational)
 - **✅ Digital ID System**: 100% Complete (Auto-generation + Verification working)
@@ -30,7 +30,7 @@ A comprehensive digital ecosystem for tourist safety using Real-time Communicati
 ## 📁 **CURRENT PROJECT STRUCTURE**
 ```
 ├── backend/              # ✅ COMPLETE - Node.js + Express.js + Socket.IO
-│   ├── server.js         # Main API server with WebSocket support  
+│   ├── server.js         # Main API server with WebSocket support
 │   ├── routes/           # Authentication, SOS, and Admin routes
 │   ├── socket/           # Real-time Socket.IO handlers
 │   ├── models/           # MongoDB Atlas schemas
@@ -94,7 +94,7 @@ npm start
 ### **✅ COMPETITION REQUIREMENTS MET:**
 - **✅ Working System**: Complete full-stack application operational.
 - **✅ Technical Innovation**: Real-time audible siren + live location broadcasting.
-- **✅ Practical Implementation**: Production-ready system on MongoDB Atlas.  
+- **✅ Practical Implementation**: Production-ready system on MongoDB Atlas.
 - **✅ Professional Quality**: Industry-standard security and premium mobile responsiveness.
 
 ---
@@ -110,10 +110,16 @@ npm start
 - **Frontend (Mobile App)**: [https://suraksha-setu-1.onrender.com](https://suraksha-setu-1.onrender.com)
 - **Backend API**: [https://suraksha-setu-0iaq.onrender.com](https://suraksha-setu-0iaq.onrender.com)
 
-**Last Updated**: May 04, 2026  
+**Last Updated**: May 04, 2026
 **Project Status**: 100% Complete - **SUCCESSFULLY FINALIZED!** 🚀
 
 ---
 **Organization**: Ministry of Development of North Eastern Region  
 **Theme**: Travel & Tourism  
 **Category**: Software
+
+## About
+
+Created by **@subham-khandual**
+
+GitHub: https://github.com/subham-khandual
